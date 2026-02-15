@@ -1,16 +1,35 @@
-## Hi there 👋
+Hey there 👋 👋
 
-<!--
-**pvfelicio/pvfelicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Pedro, a developer focused on DevOps, automation, and data-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work with Python, Linux, Git, and scripting to build tools, automate workflows, and explore infrastructure concepts.
+
+This is where I share my projects, experiments, and things I'm currently working on. Most things here are built from scratch as part of my learning and practical development.
+
+---
+
+## Tools & Tech 
+
+- Python, Bash
+- Mysql and Docker
+- Linux, Git, GitHub
+- Data analysis and Support
+- JSON, APIs, scripting
+
+---
+
+## Current Focus 
+
+- DevOps and infrastructure fundamentals  
+- Automation and workflow optimization  
+- Cloud and CI/CD  
+---
+
+## A Bit About Me 
+
+- I'm Sâo Paulo F.C. Fan ❤️🤍🖤
+- Improving my english
+- Improving my spanish
+- I do football game analysis in my free time. You can know/see more in my reporsitory (Brazilian-football-analysis)    
+- Always learning and refining my workflow
