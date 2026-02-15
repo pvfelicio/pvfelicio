@@ -1,7 +1,7 @@
 Hey there 👋 👋
 
 
-I'm Pedro, a developer focused on DevOps, automation, and data-driven systems.
+I'm Pedro, a data engeneer focused analysis, automation, and data-driven systems. Currently, i'm studying for DevOps.
 
 I mostly work with Python, Linux, Git, and scripting to build tools, automate workflows, and explore infrastructure concepts.
 
