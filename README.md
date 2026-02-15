@@ -28,7 +28,7 @@ This is where I share my projects, experiments, and things I'm currently working
 
 ## A Bit About Me 
 
-- I'm Sâo Paulo F.C. Fan ❤️🤍🖤
+- I'm São Paulo F.C. Fan ❤️🤍🖤
 - Improving my english
 - Improving my spanish
 - I do football game analysis in my free time. You can know/see more in my reporsitory (Brazilian-football-analysis)    
