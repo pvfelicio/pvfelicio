@@ -23,7 +23,8 @@ This is where I share my projects, experiments, and things I'm currently working
 
 - DevOps and infrastructure fundamentals  
 - Automation and workflow optimization  
-- Cloud and CI/CD  
+- Cloud and CI/CD
+- Math and Physics
 ---
 
 ## A Bit About Me 
@@ -33,3 +34,4 @@ This is where I share my projects, experiments, and things I'm currently working
 - Improving my spanish
 - I do football game analysis in my free time. You can know/see more in my reporsitory (Brazilian-football-analysis)    
 - Always learning and refining my workflow
+- Math and Physics
